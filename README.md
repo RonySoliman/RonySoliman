@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RonySoliman
+- **👋 Hi, I’m @RonySoliman**
 
-                                   ![](https://github.com/RonySoliman/RonySoliman/blob/main/text.gif)
+![](https://github.com/RonySoliman/RonySoliman/blob/main/text.gif)
 
 - 👀 I’m interested in Data Science - Machine Learning - Deep Learning - Natural Language Processing (NLP)
 - 🌱 I’m currently building Recommendation Engines
