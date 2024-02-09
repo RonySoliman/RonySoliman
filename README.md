@@ -7,8 +7,11 @@
 - 🌱 I’m currently building Recommendation Engines using Python - Tableau - Hadoop
 - 💞️ I’m looking to collaborate regarding domains I'm expert in;
         - Comfort using: Python - JavaScript - R - Julia - MatLab
+  
         - Solid knoweldge in: React.js - Flask - Go "Golang"
+  
         - SQL Domain/Database: SQL - MySQL - Oracle - Hadoop - Hive - Impala
+  
         - Visulaization: Tableau - PowerBI
 - 🎥 Check our [YouTube Channel](https://www.youtube.com/@techtwinsfordatascience/videos)
 - [Kaggle Profile](https://www.kaggle.com/ronysoliman)
