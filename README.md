@@ -7,6 +7,8 @@
 - 🌱 I’m currently building Recommendation Engines using Python - Tableau - SQL
 - 💞️ I’m looking to collaborate regarding domains I'm expert in: Python - R - MATLAB - Oracle - SQL - MySQL - Tableau - Power BI - Hadoop - Hive - Impala
 - 🎥 Check our [YouTube Channel](https://www.youtube.com/@techtwinsfordatascience/videos)
+- [Kaggle Profile](https://www.kaggle.com/ronysoliman)
+- [LinkedIn Profile](https://www.linkedin.com/in/ronysoliman/)
 
 <!---
 RonySoliman/RonySoliman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
