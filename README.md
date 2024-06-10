@@ -3,8 +3,8 @@
 [comment]: <![](https://github.com/RonySoliman/RonySoliman/blob/main/Data%20Scientist%20(1).png)> 
 
 
-- 👀 I’m interested in Data Science & Analytics - Machine Learning - Deep Learning - Natural Language Processing (NLP) - Statistics - Data Algorithms
-- 🌱 I’m currently building Recommendation Engines using Python - Tableau - Hadoop
+- 👀 I’m interested in Data Science & Analytics - Machine Learning - Deep Learning - Recommender Systems - Business Data Analysis - Survival Analysis - Data Structure & Algorithms
+- 🌱 I’m currently building Recommendation Engines using Python - Tableau - Hadoop - SQL
 - 💞️ I’m looking to collaborate regarding domains I'm expert in;
   
         - Comfort using: Python - JavaScript - R - Julia - MatLab
@@ -14,7 +14,8 @@
         - SQL Domain/Database: SQL - MySQL - Oracle - Hadoop - Hive - Impala
   
         - Visulaization: Tableau - PowerBI
-- 🎥 Check our [YouTube Channel](https://www.youtube.com/@techtwinsfordatascience/videos)
+**🎥 Check our**
+- [YouTube Channel](https://www.youtube.com/@techtwinsfordatascience/videos)
 - [Kaggle Profile](https://www.kaggle.com/ronysoliman)
 - [LinkedIn Profile](https://www.linkedin.com/in/ronysoliman/)
 
