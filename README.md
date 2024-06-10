@@ -1,6 +1,6 @@
 - **👋 Hi, I’m @RonySoliman**
 
-![](https://github.com/RonySoliman/RonySoliman/blob/main/Data%20Scientist%20(1).png)
+%![](https://github.com/RonySoliman/RonySoliman/blob/main/Data%20Scientist%20(1).png)%
 
 
 - 👀 I’m interested in Data Science & Analytics - Machine Learning - Deep Learning - Natural Language Processing (NLP) - Statistics - Data Algorithms
