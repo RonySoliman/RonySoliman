@@ -14,10 +14,10 @@
         - SQL Domain/Database: SQL - MySQL - Oracle - Hadoop - Hive - Impala
   
         - Visulaization: Tableau - PowerBI
-**🎥 Check our**
+**🎥 Check**
 - [YouTube Channel](https://www.youtube.com/@techtwinsfordatascience/videos)
-- [Kaggle Profile](https://www.kaggle.com/ronysoliman)
 - [LinkedIn Profile](https://www.linkedin.com/in/ronysoliman/)
+- [Kaggle Profile](https://www.kaggle.com/ronysoliman)
 
 <!---
 RonySoliman/RonySoliman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
