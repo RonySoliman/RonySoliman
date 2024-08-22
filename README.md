@@ -14,7 +14,7 @@
         - SQL Domain/Database: SQL - MySQL - Oracle - Hadoop - Hive - Impala
   
         - Visulaization: Tableau - PowerBI
-**🎥 Check**
+**✨ Check my social Profiles ✨**
 - [YouTube Channel](https://www.youtube.com/@Rony.Soliman/videos)
 - [LinkedIn Profile](https://www.linkedin.com/in/ronysoliman/)
 
