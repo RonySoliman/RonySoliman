@@ -15,7 +15,7 @@
   
         - Visulaization: Tableau - PowerBI
 **🎥 Check**
-- [YouTube Channel](https://www.youtube.com/@techtwinsfordatascience/videos)
+- [YouTube Channel](https://www.youtube.com/@Rony.Soliman/videos)
 - [LinkedIn Profile](https://www.linkedin.com/in/ronysoliman/)
 
 <!---
