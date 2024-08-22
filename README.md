@@ -17,7 +17,6 @@
 **🎥 Check**
 - [YouTube Channel](https://www.youtube.com/@techtwinsfordatascience/videos)
 - [LinkedIn Profile](https://www.linkedin.com/in/ronysoliman/)
-- [Kaggle Profile](https://www.kaggle.com/ronysoliman)
 
 <!---
 RonySoliman/RonySoliman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
