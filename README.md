@@ -4,18 +4,18 @@
 
 
 - 👀 I’m interested in Data Science & Analytics - Machine Learning - Deep Learning - Recommender Systems - Business Data Analysis - Survival Analysis - Data Structure & Algorithms
-- 🌱 I’m currently building Recommendation Engines using Python - Tableau - Hadoop - SQL
+- 🌱 I’m currently building Recommendation Engines using Python - Flask - Hadoop - SQL
 - 💞️ I’m looking to collaborate regarding domains I'm expert in;
   
-        - Comfort using: Python - JavaScript - R - Julia - MatLab
+        - Comfort using: Python - JavaScript - HTML - CSS - React - R - Julia - MatLab
   
-        - Solid knoweldge in: React.js - Flask - Go "Golang"
+        - Solid knoweldge in: Go "Golang"
   
         - SQL Domain/Database: SQL - MySQL - Oracle - Hadoop - Hive - Impala
   
         - Visulaization: Tableau - PowerBI
 **✨ Check my social profiles ✨**
-- [YouTube Channel](https://www.youtube.com/@Rony.Soliman/videos)
+- [YouTube Channel](https://www.youtube.com/@RonySolimanOfficial/videos)
 - [LinkedIn Profile](https://www.linkedin.com/in/ronysoliman/)
 
 <!---
