@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate regarding domains I'm expert in;
 My major is in AI, projects related to machine learning, deep learning, recommendation systems and neural networks are my expertise.
 
-    = Programming Languages: Python, JavaScript (JS), React.js, R, MatLab, HTML, CSS, Julia.
+>    = Programming Languages: Python, JavaScript (JS), React.js, R, MatLab, HTML, CSS, Julia.
     
     = Python Frameworks: Pandas - Numpy - MatPlotLib - Scikit learn - Keras - PyTorch - XGBoost - Seaborn - TensorFlow - MLflow - FastAPI - RestAPI - Rust - Flask.
     
