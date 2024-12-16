@@ -9,23 +9,23 @@
 My major is in AI, projects related to machine learning, deep learning, recommendation systems and neural networks are my expertise.
 
 
->    = Programming Languages: Python, JavaScript (JS), React.js, R, MatLab, HTML, CSS, Julia.
+>    * Programming Languages: Python, JavaScript (JS), React.js, R, MatLab, HTML, CSS, Julia.
     
->    = Python Frameworks: Pandas - Numpy - MatPlotLib - Scikit learn - Keras - PyTorch - XGBoost - Seaborn - TensorFlow - MLflow - FastAPI - RestAPI - Rust - Flask.
+>    * Python Frameworks: Pandas - Numpy - MatPlotLib - Scikit learn - Keras - PyTorch - XGBoost - Seaborn - TensorFlow - MLflow - FastAPI - RestAPI - Rust - Flask.
     
->    = Big Data Software: Hadoop, Impala, SQL, Oracle, GitLab.
+>    * Big Data Software: Hadoop, Impala, SQL, Oracle, GitLab.
     
->    = Data Science Expertise: Machine Learning, Deep Learning, Neural Network, A/B Testing, Hypothesis Testing, Data Science Pipelines, ETL/ELT, Recommendation Systems, OOP, Brand Evaluation, Time Series Analysis, Churn Analysis, Product Forecasting.
+>    * Data Science Expertise: Machine Learning, Deep Learning, Neural Network, A/B Testing, Hypothesis Testing, Data Science Pipelines, ETL/ELT, Recommendation Systems, OOP, Brand Evaluation, Time Series Analysis, Churn Analysis, Product Forecasting.
 
->    = Visualization Software: Power BI, Tableau.
+>    * Visualization Software: Power BI, Tableau.
 
->    = Additional Software: Microsoft 365, Excel, Docker.
+>    * Additional Software: Microsoft 365, Excel, Docker.
 
->    = Business Acumen: Solid understanding in business metrics and KPIs.
+>    * Business Acumen: Solid understanding in business metrics and KPIs.
 
->    = Domain Expertise: Banking Sector, Retail Sector, Technology and Media Services especially based on recommendation systems.
+>    * Domain Expertise: Banking Sector, Retail Sector, Technology and Media Services especially based on recommendation systems.
     
->    = Soft Skills: problem solver, self-starter, able to manage my time and being efficient, adapting to changes.
+>    * Soft Skills: problem solver, self-starter, able to manage my time and being efficient, adapting to changes.
 
 
 **✨ Check my social profiles ✨**
