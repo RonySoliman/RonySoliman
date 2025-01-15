@@ -9,9 +9,9 @@
 My major is in AI, projects related to machine learning, deep learning, recommendation systems and neural networks are my expertise.
 
 
->    * Programming Languages: Python, JavaScript (JS), React.js, R, MatLab, HTML, CSS, Julia.
+>    * Programming Languages: Python, JavaScript (JS), React.js, R, MatLab, HTML, CSS, Go (Golang).
     
->    * Python Frameworks: Pandas - Numpy - MatPlotLib - Scikit learn - Keras - PyTorch - XGBoost - Seaborn - TensorFlow - MLflow - FastAPI - RestAPI - Rust - Flask.
+>    * Python Frameworks: Pandas - Numpy - MatPlotLib - Scikit learn - Keras - PyTorch - XGBoost - CatBoost - Seaborn - TensorFlow - MLflow - FastAPI - RestAPI - Rust - Flask.
     
 >    * Big Data Software: Hadoop, Impala, SQL, Oracle, GitLab.
     
