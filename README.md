@@ -30,6 +30,7 @@ My major is in AI, projects related to machine learning, deep learning, recommen
 
 **✨ Check my social profiles ✨**
 - [YouTube Channel](https://www.youtube.com/@RonySolimanOfficial/videos)
+- [TikTok Profile](https://www.tiktok.com/@ronysolimanofficial)
 - [LinkedIn Profile](https://www.linkedin.com/in/ronysoliman/)
 - [Kaggle Profile](https://www.kaggle.com/ronysoliman)
 
