@@ -29,17 +29,17 @@ My major is in AI, projects related to machine learning, deep learning, recommen
 >    * 
 
 
-<h2>Socials</h2>h2>
+<h2>Socials</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/RonySoliman" target="_blank" rel="noreferrer">
-    <img src="https://github.com/RonySoliman/RonySoliman/blob/main/images/LinkedIn.png" width="32" height="32" style="border-radius: 50%;" />
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin-circled--v1.png" width="32" height="32" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@RonySoliman" target="_blank" rel="noreferrer">
-    <img src="https://github.com/RonySoliman/RonySoliman/blob/main/images/YT.png" width="32" height="32" style="border-radius: 50%;" />
+    <img src="https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png" width="32" height="32" alt="YouTube" />
   </a>
   <a href="https://www.tiktok.com/@RonySoliman" target="_blank" rel="noreferrer">
-    <img src="https://github.com/RonySoliman/RonySoliman/blob/main/images/TikTok.png" width="32" height="32" style="border-radius: 50%;" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/tiktok--v1.png" width="32" height="32" alt="TikTok" />
   </a>
 </p>
 
