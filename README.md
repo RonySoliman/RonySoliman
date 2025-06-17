@@ -4,3 +4,6 @@
 
 
 https://github.com/RonySoliman/RonySoliman/blob/main/images/square-tiktok-logo-isolated-white-background_469489-1029.png
+
+
+[![LinkedIn](https://raw.githubusercontent.com/RonySoliman/RonySoliman/main/images/square-tiktok-logo-isolated-white-background_469489-1029.png)](https://tiktok.com/@RonySoliman)
