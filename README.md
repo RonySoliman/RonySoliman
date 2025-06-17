@@ -41,92 +41,6 @@ My major is in AI, projects related to machine learning, deep learning, recommen
   </a>
 </p>
 
-## Skills
-<p align="left">
-
-<!-- Row 1 -->
-<span>
-  <a href="https://python.org">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://reactjs.org">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  </a>
-</span>
-<br>
-
-<!-- Row 2 -->
-<span>
-  <a href="https://www.tensorflow.org">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://java.com">
-    <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://golang.org">
-    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/REST">
-    <img src="https://img.shields.io/badge/REST_API-005571?logo=rest&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.postgresql.org">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
-  </a>
-</span>
-<br>
-
-<!-- Row 3 -->
-<span>
-  <a href="https://nodejs.org">
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://docker.com">
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://powerbi.microsoft.com">
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
-  </a>
-  <a href="https://www.tableau.com">
-    <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" />
-  </a>
-</span>
-
-</p>
-
-
-<h2>Skills</h2>
-
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <!-- Row 1 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
-
-  <!-- Row 2 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png" alt="REST API" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
-
-  <!-- Row 3 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
-  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
-</p>
-
 
 <h2>Skills</h2>
 
@@ -168,7 +82,7 @@ My major is in AI, projects related to machine learning, deep learning, recommen
 
   <!-- Row 3 -->
   <a href="https://nodejs.org" title="Node.js" target="_blank">
-  <img src="https://nodejs.org/static/images/logos/js-green.svg" alt="Node.js" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
   </a>
   <a href="https://www.docker.com" title="Docker" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
@@ -181,4 +95,3 @@ My major is in AI, projects related to machine learning, deep learning, recommen
   </a>
 
 </p>
-
