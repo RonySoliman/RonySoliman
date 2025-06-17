@@ -168,7 +168,7 @@ My major is in AI, projects related to machine learning, deep learning, recommen
 
   <!-- Row 3 -->
   <a href="https://nodejs.org" title="Node.js" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
+  <img src="https://nodejs.org/static/images/logos/js-green.svg" alt="Node.js" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
   </a>
   <a href="https://www.docker.com" title="Docker" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
