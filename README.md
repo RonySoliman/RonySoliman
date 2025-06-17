@@ -27,20 +27,21 @@ My major is in AI, projects related to machine learning, deep learning, recommen
     
 >    * Soft Skills: problem solver, self-starter, able to manage my time and being efficient, adapting to changes.
 >    * 
-### Socials
+
+
+<h2>Socials</h2>h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/RonySoliman" target="_blank" rel="noreferrer">
-    <img src="https://github.com/RonySoliman/RonySoliman/blob/main/images/LinkedIn.png" width="32" height="32" />
+    <img src="https://github.com/RonySoliman/RonySoliman/blob/main/images/LinkedIn.png" width="32" height="32" style="border-radius: 50%;" />
   </a>
   <a href="https://www.youtube.com/@RonySoliman" target="_blank" rel="noreferrer">
-    <img src="https://github.com/RonySoliman/RonySoliman/blob/main/images/YT.png" width="32" height="32" />
+    <img src="https://github.com/RonySoliman/RonySoliman/blob/main/images/YT.png" width="32" height="32" style="border-radius: 50%;" />
   </a>
   <a href="https://www.tiktok.com/@RonySoliman" target="_blank" rel="noreferrer">
-    <img src="https://github.com/RonySoliman/RonySoliman/blob/main/images/TikTok.png" width="32" height="32" />
+    <img src="https://github.com/RonySoliman/RonySoliman/blob/main/images/TikTok.png" width="32" height="32" style="border-radius: 50%;" />
   </a>
 </p>
-
 
 <h2>Skills</h2>
 
