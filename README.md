@@ -26,7 +26,6 @@ My major is in AI, projects related to machine learning, deep learning, recommen
 >    * Domain Expertise: Banking Sector, Retail Sector, Technology and Media Services especially based on recommendation systems.
     
 >    * Soft Skills: problem solver, self-starter, able to manage my time and being efficient, adapting to changes.
->    * 
 
 
 <h2>Socials</h2>
