@@ -1,9 +1,18 @@
 # portfolio
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2](https://github.com/RonySoliman/RonySoliman/blob/main/images/square-tiktok-logo-isolated-white-background_469489-1029.png)?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RonySoliman)
+### Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/RonySoliman" target="_blank" rel="noreferrer">
+    <img src="https://github.com/RonySoliman/RonySoliman/blob/main/images/LinkedIn.png" width="32" height="32" />
+  </a>
+  <a href="https://www.youtube.com/@RonySoliman" target="_blank" rel="noreferrer">
+    <img src="https://github.com/RonySoliman/RonySoliman/blob/main/images/YT.png" width="32" height="32" />
+  </a>
+  <a href="https://www.tiktok.com/@RonySoliman" target="_blank" rel="noreferrer">
+    <img src="https://github.com/RonySoliman/RonySoliman/blob/main/images/TikTok.png" width="32" height="32" />
+  </a>
+</p>
 
 
-https://github.com/RonySoliman/RonySoliman/blob/main/images/square-tiktok-logo-isolated-white-background_469489-1029.png
-
-
-[![LinkedIn](https://raw.githubusercontent.com/RonySoliman/RonySoliman/main/images/square-tiktok-logo-isolated-white-background_469489-1029.png)](https://tiktok.com/@RonySoliman)
+https://github.com/RonySoliman/RonySoliman/blob/main/images
