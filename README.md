@@ -102,3 +102,28 @@ My major is in AI, projects related to machine learning, deep learning, recommen
 
 </p>
 
+
+<h2>Skills</h2>
+
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- Row 1 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
+
+  <!-- Row 2 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png" alt="REST API" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
+
+  <!-- Row 3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="50" height="50" style="border-radius: 50%; background-color: #fff; padding: 5px; border: 1px solid #ccc;" />
+</p>
+
