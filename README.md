@@ -93,5 +93,8 @@ My major is in AI, projects related to machine learning, deep learning, recommen
   <a href="https://www.tableau.com" title="Tableau" target="_blank">
     <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
   </a>
+  <a href="https://streamlit.io/" title="Streamlit" target="_blank">
+    <img src="https://img.icons8.com/color/48/streamlit.png" alt="Tableau" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
+  </a>
 
 </p>
