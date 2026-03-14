@@ -36,10 +36,10 @@ My major is in AI, projects related to machine learning, deep learning, recommen
   </a>
   <a href="https://www.youtube.com/@RonyMLE" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png" width="32" height="32" alt="YouTube" />
-  </a>
+ <!-- </a>
   <a href="https://www.tiktok.com/@ronymle" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/ios-filled/50/000000/tiktok--v1.png" width="32" height="32" alt="TikTok" />
-  </a>
+  </a> -->
 </p>
 
 <h2>Skills</h2>
