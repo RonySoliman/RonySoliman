@@ -146,7 +146,7 @@ My major is in AI, projects related to machine learning, deep learning, recommen
 | 🏨 [Booking.com Analytics Suite](https://github.com/RonySoliman/Booking.com-Recommendation-System-Analysis-using-Tableau) | Hotel cancellation analysis, ratings classification & Tableau dashboards | Python, Tableau, PyCaret |
 | 🧪 [A/B Test Results Analysis](https://github.com/RonySoliman/A-B-Testing-On-Landing-Page-Hypothesis-Testing) | Bootstrapped hypothesis testing + logistic regression for conversion rate analysis | pandas, statsmodels |
 | 💼 [Users Churning Predictions](https://github.com/RonySoliman/Users-Churning-Predictions) | Forecasts the likelihood of customer churn. | Python, Scikit-learn, CatBoost |
-| ✈️ [US Bikeshare Analysis — Python Command-Line Application](https://github.com/RonySoliman/US-Bikeshare-Analysis-Python-Command-Line-Application) | An interactive command-line application that lets users explore US bikeshare trip data across three cities — Chicago, New York City, and Washington. | Python, Pandas, Numpy |
+| 🚲 [US Bikeshare Analysis — Python Command-Line Application](https://github.com/RonySoliman/US-Bikeshare-Analysis-Python-Command-Line-Application) | An interactive command-line application that lets users explore US bikeshare trip data across three cities — Chicago, New York City, and Washington. | Python, Pandas, Numpy |
 
 ---
 <!--
