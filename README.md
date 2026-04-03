@@ -143,10 +143,10 @@ My major is in AI, projects related to machine learning, deep learning, recommen
 | 🛒 [Recommendation Systems](https://github.com/RonySoliman/Recommendation-Systems-) | Apriori, FP-Growth & Naive Bayes recommendation engine on Global Superstore data | Python, mlxtend, scikit-learn |
 | 🌸 [PyTorch Image Classifier](https://github.com/RonySoliman/PyTorch-Model-using-Resnet50) | Transfer learning with ResNet50 to classify 102 flower species | PyTorch, torchvision |
 | 🐾 [CNN Pet Classifier](https://github.com/RonySoliman/Building-CNN-model-to-classify-images) | Benchmarks ResNet, AlexNet & VGG16 for pet image classification | PyTorch, argparse |
-| 🏨 [Booking.com Analytics Suite](https://github.com/RonySoliman/Booking_com-Recommendation-System-Analysis-using-Tableau) | Hotel cancellation analysis, ratings classification & Tableau dashboards | Python, Tableau, PyCaret |
-| 🧪 [A/B Test Results Analysis](https://github.com/RonySoliman/Analyze_ab_test_results) | Bootstrapped hypothesis testing + logistic regression for conversion rate analysis | pandas, statsmodels |
-| 💼 [Salary Prediction](https://github.com/RonySoliman/Udacity_Regression_salary_prediction_project) | Multiple linear regression with OLS to predict employee salaries | pandas, statsmodels |
-| ✈️ [Travel Planner App](https://github.com/RonySoliman/Travel-App-JavaScript) | Full-stack travel app integrating GeoNames, Dark Sky & Pixabay APIs | Node.js, Express, Webpack |
+| 🏨 [Booking.com Analytics Suite](https://github.com/RonySoliman/Booking.com-Recommendation-System-Analysis-using-Tableau) | Hotel cancellation analysis, ratings classification & Tableau dashboards | Python, Tableau, PyCaret |
+| 🧪 [A/B Test Results Analysis](https://github.com/RonySoliman/A-B-Testing-On-Landing-Page-Hypothesis-Testing) | Bootstrapped hypothesis testing + logistic regression for conversion rate analysis | pandas, statsmodels |
+| 💼 [Users Churning Predictions](https://github.com/RonySoliman/Users-Churning-Predictions) | Forecasts the likelihood of customer churn. | Python, Scikit-learn, CatBoost |
+| ✈️ [US Bikeshare Analysis — Python Command-Line Application](https://github.com/RonySoliman/US-Bikeshare-Analysis-Python-Command-Line-Application) | An interactive command-line application that lets users explore US bikeshare trip data across three cities — Chicago, New York City, and Washington. | Python, Pandas, Numpy |
 
 ---
 <!--
