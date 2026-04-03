@@ -1,4 +1,4 @@
-**`👋 Hi, I’m @RonySoliman`**
+<!--**`👋 Hi, I’m @RonySoliman`**
 
 [comment]: <![](https://github.com/RonySoliman/RonySoliman/blob/main/Data%20Scientist%20(1).png)> 
 
@@ -29,72 +29,149 @@ My major is in AI, projects related to machine learning, deep learning, recommen
 
 
 <h2>Socials</h2>
+-->
+
+# Hi there, I'm Rony 👋
+
+> *Data Scientist & ML Engineer passionate about building intelligent systems that drive real business value.*
+
+---
+
+## 🧠 About Me
+
+- 🔭 Currently building **Recommendation Engines** using Python, Flask, Hadoop & SQL
+- 🤖 Specialised in **Machine Learning**, **Deep Learning**, **Recommender Systems** & **Neural Networks**
+- 📊 Strong business acumen — translating data into decisions across **Banking**, **Retail**, and **Technology & Media** sectors
+- 🎬 Content creator on **[YouTube](https://www.youtube.com/@RonyMLE)** — teaching Data Science & ML concepts
+- 💞️ Open to collaboration on ML, deep learning, recommendation systems, and neural network projects
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/RonySoliman" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin-circled--v1.png" width="32" height="32" alt="LinkedIn" />
+  <a href="https://www.python.org" title="Python" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" />
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
+  </a>&nbsp;
+  <a href="https://reactjs.org" title="React" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45" />
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
+  </a>&nbsp;
+  <a href="https://golang.org" title="Go" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="45" height="45" />
   </a>
-  <a href="https://www.youtube.com/@RonyMLE" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png" width="32" height="32" alt="YouTube" />
- <!-- </a>
-  <a href="https://www.tiktok.com/@ronymle" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/tiktok--v1.png" width="32" height="32" alt="TikTok" />
-  </a> -->
 </p>
 
-<h2>Skills</h2>
+**ML / AI Frameworks**
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-  <!-- Row 1 -->
-  <a href="https://www.python.org" title="Python" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
-  </a>
-  <a href="https://reactjs.org" title="React" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
-  </a>
-
-  <!-- Row 2 -->
+<p align="left">
   <a href="https://www.tensorflow.org" title="TensorFlow" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45" />
+  </a>&nbsp;
+  <a href="https://pytorch.org" title="PyTorch" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45" />
+  </a>&nbsp;
+  <a href="https://scikit-learn.org" title="Scikit-learn" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45" />
+  </a>&nbsp;
+  <a href="https://keras.io" title="Keras" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="45" height="45" />
   </a>
-  <a href="https://www.java.com" title="Java" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
-  </a>
-  <a href="https://golang.org" title="Go" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" title="REST API" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png" alt="REST API" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
-  </a>
+</p>
+
+**Data & Databases**
+
+<p align="left">
   <a href="https://www.postgresql.org" title="PostgreSQL" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
-  </a>
-
-  <!-- Row 3 -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />
+  </a>&nbsp;
+  <a href="https://hadoop.apache.org" title="Hadoop" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="45" height="45" />
+  </a>&nbsp;
   <a href="https://nodejs.org" title="Node.js" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" />
   </a>
-  <a href="https://www.docker.com" title="Docker" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
-  </a>
-  <a href="https://powerbi.microsoft.com" title="Power BI" target="_blank">
-    <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
-  </a>
-  <a href="https://www.tableau.com" title="Tableau" target="_blank">
-    <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
-  </a>
-  <a href="https://share.streamlit.io/user/ronysoliman" title="Streamlit" target="_blank">
-    <img src="https://img.icons8.com/color/48/streamlit.png" alt="Tableau" width="50" height="50" style="border-radius: 50%; background: #fff; padding: 5px; border: 1px solid #ccc;" />
-  </a>
+</p>
 
+**Visualisation & Tools**
+
+<p align="left">
+  <a href="https://powerbi.microsoft.com" title="Power BI" target="_blank">
+    <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="45" height="45" />
+  </a>&nbsp;
+  <a href="https://www.tableau.com" title="Tableau" target="_blank">
+    <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="45" height="45" />
+  </a>&nbsp;
+  <a href="https://streamlit.io" title="Streamlit" target="_blank">
+    <img src="https://img.icons8.com/color/48/streamlit.png" alt="Streamlit" width="45" height="45" />
+  </a>&nbsp;
+  <a href="https://www.docker.com" title="Docker" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
+  </a>
+</p>
+
+---
+
+## 🎯 Expertise
+
+| Domain | Skills |
+|---|---|
+| **Machine Learning** | Supervised & Unsupervised Learning, Ensemble Methods, XGBoost, CatBoost |
+| **Deep Learning** | CNNs, Neural Networks, Transfer Learning, TensorFlow, PyTorch, Keras |
+| **Recommendation Systems** | Apriori, FP-Growth, Naive Bayes, Collaborative Filtering, Association Rules |
+| **Statistical Analysis** | A/B Testing, Hypothesis Testing, Time Series, Survival Analysis, Churn Analysis |
+| **Data Engineering** | ETL/ELT Pipelines, Hadoop, Impala, SQL, Oracle, MLflow |
+| **APIs & Backend** | FastAPI, REST API, Flask, Docker |
+| **Visualisation** | Power BI, Tableau, Matplotlib, Seaborn, Plotly |
+
+---
+
+## 🗂️ Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🛒 [Recommendation Systems](https://github.com/RonySoliman/Recommendation-Systems-) | Apriori, FP-Growth & Naive Bayes recommendation engine on Global Superstore data | Python, mlxtend, scikit-learn |
+| 🌸 [PyTorch Image Classifier](https://github.com/RonySoliman/PyTorch-Model-using-Resnet50) | Transfer learning with ResNet50 to classify 102 flower species | PyTorch, torchvision |
+| 🐾 [CNN Pet Classifier](https://github.com/RonySoliman/Building-CNN-model-to-classify-images) | Benchmarks ResNet, AlexNet & VGG16 for pet image classification | PyTorch, argparse |
+| 🏨 [Booking.com Analytics Suite](https://github.com/RonySoliman/Booking_com-Recommendation-System-Analysis-using-Tableau) | Hotel cancellation analysis, ratings classification & Tableau dashboards | Python, Tableau, PyCaret |
+| 🧪 [A/B Test Results Analysis](https://github.com/RonySoliman/Analyze_ab_test_results) | Bootstrapped hypothesis testing + logistic regression for conversion rate analysis | pandas, statsmodels |
+| 💼 [Salary Prediction](https://github.com/RonySoliman/Udacity_Regression_salary_prediction_project) | Multiple linear regression with OLS to predict employee salaries | pandas, statsmodels |
+| ✈️ [Travel Planner App](https://github.com/RonySoliman/Travel-App-JavaScript) | Full-stack travel app integrating GeoNames, Dark Sky & Pixabay APIs | Node.js, Express, Webpack |
+
+---
+
+## 📺 YouTube
+
+I create educational content on Data Science and Machine Learning:
+
+- 🎥 [Recommendation Systems Tutorial (Part One)](https://www.youtube.com/watch?v=QyiqVo7pf9I&ab_channel=TechTwinsforDataScience)
+- 🎥 [Why Naive Bayes is still relevant in 2024?](https://www.youtube.com/watch?v=HklVjviGneU&ab_channel=TechTwinsforDataScience)
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/RonySoliman" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin-circled--v1.png" width="36" height="36" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@RonyMLE" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png" width="36" height="36" alt="YouTube" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"The goal is to turn data into information, and information into insight."</i>
 </p>
