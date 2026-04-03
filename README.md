@@ -35,6 +35,10 @@ My major is in AI, projects related to machine learning, deep learning, recommen
 
 > *Data Scientist & ML Engineer passionate about building intelligent systems that drive real business value.*
 
+<p align="center">
+  <i>"The goal is to turn data into information, and information into insight."</i>
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -172,6 +176,4 @@ I create educational content on Data Science and Machine Learning:
 
 ---
 
-<p align="center">
-  <i>"The goal is to turn data into information, and information into insight."</i>
-</p>
+
