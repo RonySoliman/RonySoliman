@@ -149,7 +149,7 @@ My major is in AI, projects related to machine learning, deep learning, recommen
 | ✈️ [Travel Planner App](https://github.com/RonySoliman/Travel-App-JavaScript) | Full-stack travel app integrating GeoNames, Dark Sky & Pixabay APIs | Node.js, Express, Webpack |
 
 ---
-
+<!--
 ## 📺 YouTube
 
 I create educational content on Data Science and Machine Learning:
@@ -158,7 +158,7 @@ I create educational content on Data Science and Machine Learning:
 - 🎥 [Why Naive Bayes is still relevant in 2024?](https://www.youtube.com/watch?v=HklVjviGneU&ab_channel=TechTwinsforDataScience)
 
 ---
-
+--->
 ## 🤝 Connect with Me
 
 <p align="left">
