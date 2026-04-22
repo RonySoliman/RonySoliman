@@ -30,7 +30,6 @@ My major is in AI, projects related to machine learning, deep learning, recommen
 
 <h2>Socials</h2>
 -->
-
 # Hi there, I'm Rony 👋
 
 > *Data Scientist & ML Engineer passionate about building intelligent systems that drive real business value.*
@@ -55,74 +54,48 @@ My major is in AI, projects related to machine learning, deep learning, recommen
 
 **Languages**
 
-<p align="left">
-  <a href="https://www.python.org" title="Python" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" />
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
-  </a>&nbsp;
-  <a href="https://reactjs.org" title="React" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45" />
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
-  </a>&nbsp;
-  <a href="https://golang.org" title="Go" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="45" height="45" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/><br/>Python</a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/><br/>JavaScript</a></td>
+    <td align="center"><a href="https://reactjs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/><br/>React</a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/><br/>HTML5</a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/><br/>CSS3</a></td>
+    <td align="center"><a href="https://golang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45" alt="Go"/><br/>Go</a></td>
+  </tr>
+</table>
 
 **ML / AI Frameworks**
 
-<p align="left">
-  <a href="https://www.tensorflow.org" title="TensorFlow" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45" />
-  </a>&nbsp;
-  <a href="https://pytorch.org" title="PyTorch" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45" />
-  </a>&nbsp;
-  <a href="https://scikit-learn.org" title="Scikit-learn" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45" />
-  </a>&nbsp;
-  <a href="https://keras.io" title="Keras" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="45" height="45" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.tensorflow.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/><br/>TensorFlow</a></td>
+    <td align="center"><a href="https://pytorch.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/><br/>PyTorch</a></td>
+    <td align="center"><a href="https://scikit-learn.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn"/><br/>Scikit-learn</a></td>
+    <td align="center"><a href="https://keras.io" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45" height="45" alt="Keras"/><br/>Keras</a></td>
+  </tr>
+</table>
 
 **Data & Databases**
 
-<p align="left">
-  <a href="https://www.postgresql.org" title="PostgreSQL" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />
-  </a>&nbsp;
-  <a href="https://hadoop.apache.org" title="Hadoop" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="45" height="45" />
-  </a>&nbsp;
-  <a href="https://nodejs.org" title="Node.js" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/><br/>PostgreSQL</a></td>
+    <td align="center"><a href="https://hadoop.apache.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45" height="45" alt="Hadoop"/><br/>Hadoop</a></td>
+    <td align="center"><a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/><br/>Node.js</a></td>
+  </tr>
+</table>
 
 **Visualisation & Tools**
 
-<p align="left">
-  <a href="https://powerbi.microsoft.com" title="Power BI" target="_blank">
-    <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="45" height="45" />
-  </a>&nbsp;
-  <a href="https://www.tableau.com" title="Tableau" target="_blank">
-    <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="45" height="45" />
-  </a>&nbsp;
-  <a href="https://streamlit.io" title="Streamlit" target="_blank">
-    <img src="https://img.icons8.com/color/48/streamlit.png" alt="Streamlit" width="45" height="45" />
-  </a>&nbsp;
-  <a href="https://www.docker.com" title="Docker" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center"><a href="https://powerbi.microsoft.com" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45" alt="Power BI"/><br/>Power BI</a></td>
+    <td align="center"><a href="https://www.tableau.com" target="_blank"><img src="https://img.icons8.com/color/48/tableau-software.png" width="45" height="45" alt="Tableau"/><br/>Tableau</a></td>
+    <td align="center"><a href="https://streamlit.io" target="_blank"><img src="https://img.icons8.com/color/48/streamlit.png" width="45" height="45" alt="Streamlit"/><br/>Streamlit</a></td>
+    <td align="center"><a href="https://www.docker.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/><br/>Docker</a></td>
+  </tr>
+</table>
 
 ---
 
@@ -153,27 +126,14 @@ My major is in AI, projects related to machine learning, deep learning, recommen
 | 🚲 [US Bikeshare Analysis — Python Command-Line Application](https://github.com/RonySoliman/US-Bikeshare-Analysis-Python-Command-Line-Application) | An interactive command-line application that lets users explore US bikeshare trip data across three cities — Chicago, New York City, and Washington. | Python, Pandas, Numpy |
 
 ---
-<!--
-## 📺 YouTube
 
-I create educational content on Data Science and Machine Learning:
-
-- 🎥 [Recommendation Systems Tutorial (Part One)](https://www.youtube.com/watch?v=QyiqVo7pf9I&ab_channel=TechTwinsforDataScience)
-- 🎥 [Why Naive Bayes is still relevant in 2024?](https://www.youtube.com/watch?v=HklVjviGneU&ab_channel=TechTwinsforDataScience)
-
----
---->
 ## 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/RonySoliman" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin-circled--v1.png" width="36" height="36" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@RonyMLE" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png" width="36" height="36" alt="YouTube" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/RonySoliman" target="_blank"><img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin-circled--v1.png" width="36" height="36" alt="LinkedIn"/><br/>LinkedIn</a></td>
+    <td align="center"><a href="https://www.youtube.com/@RonyMLE" target="_blank"><img src="https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png" width="36" height="36" alt="YouTube"/><br/>YouTube</a></td>
+  </tr>
+</table>
 
 ---
-
-
